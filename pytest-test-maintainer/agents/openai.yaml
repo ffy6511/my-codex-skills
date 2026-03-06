@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pytest Test Maintainer"
+  short_description: "Maintain pytest tests with git-aware coverage updates."
+  default_prompt: "Use $pytest-test-maintainer to generate or update pytest+mock tests based on recent git diffs and changelog evidence, then run quick/cov/report/changed modes."

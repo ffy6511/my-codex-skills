@@ -1,0 +1,4 @@
+interface:
+  display_name: "Changelog 增量更新"
+  short_description: "按日期和提交差异增量更新 changelog.md"
+  default_prompt: "请按增量方式更新 changelog，先检查日期分组并基于最近提交整理本次记录。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "习概讨论PPT内容生成"
+  short_description: "根据任意习概讨论主题快速产出4-8分钟PPT展示文案与分段讲稿"
+  default_prompt: "根据我的讨论主题与资料，生成可直接用于课堂展示的content.md：正文写PPT显示内容，每页配套讲稿使用引用块。"

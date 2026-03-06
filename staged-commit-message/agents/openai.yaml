@@ -1,0 +1,4 @@
+interface:
+  display_name: "Staged Commit Message"
+  short_description: "Conventional commit text from staged diff"
+  default_prompt: "Use $staged-commit-message to draft a conventional commit message from staged changes and write COMMIT.md."
