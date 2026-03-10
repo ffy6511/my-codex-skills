@@ -1,4 +1,4 @@
 interface:
   display_name: "Intern Daily Report"
-  short_description: "Incrementally write concise factual internship reports (<=5 bullets)"
-  default_prompt: "Update byteDance-landing/日报.md incrementally from specified docs in concise factual Chinese, include outcomes/issues/improvements, and keep the entry within 5 bullets."
+  short_description: "Incrementally write internship daily logs in the local note style"
+  default_prompt: "Update the target internship report or same-day progress section incrementally from specified docs in concise Chinese, matching nearby examples in format, tone, and section structure."

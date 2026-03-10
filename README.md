@@ -16,13 +16,13 @@
 
 ### Intern Daily Report
 
-Incrementally write concise factual internship reports (<=5 bullets)
+Incrementally write internship daily logs in the local note style
 
 <details>
 <summary>default_prompt</summary>
 
 ````text
-Update byteDance-landing/日报.md incrementally from specified docs in concise factual Chinese, include outcomes/issues/improvements, and keep the entry within 5 bullets.
+Update the target internship report or same-day progress section incrementally from specified docs in concise Chinese, matching nearby examples in format, tone, and section structure.
 ````
 
 </details>
