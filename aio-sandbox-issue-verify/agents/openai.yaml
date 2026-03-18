@@ -1,0 +1,4 @@
+interface:
+  display_name: "aio-verify"
+  short_description: "End-to-end workflow for investigating, fixing, and verifying AIO Sandbox issues"
+  default_prompt: "Use the aio cli tool and follow the guidelines of skill.md to help users troubleshoot problems with aio sandbox"

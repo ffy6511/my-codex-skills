@@ -1,9 +1,22 @@
 ## Skills
 
 <!-- skills:start -->
+### aio-verify
+
+- End-to-end workflow for investigating, fixing, and verifying AIO Sandbox issues
+
+<details>
+<summary>default_prompt</summary>
+
+````text
+Use the aio cli tool and follow the guidelines of skill.md to help users troubleshoot problems with aio sandbox
+````
+
+</details>
+
 ### Changelog 增量更新
 
-按日期和提交差异增量更新 changelog.md
+- 按日期和提交差异增量更新 changelog.md
 
 <details>
 <summary>default_prompt</summary>
@@ -14,9 +27,22 @@
 
 </details>
 
+### Frontend Design
+
+- Design striking frontend pages and interfaces
+
+<details>
+<summary>default_prompt</summary>
+
+````text
+Use $frontend-design to design and implement a distinctive, production-grade frontend experience for this request.
+````
+
+</details>
+
 ### Intern Daily Report
 
-Incrementally write internship daily logs in the local note style
+- Incrementally write internship daily logs in the local note style
 
 <details>
 <summary>default_prompt</summary>
@@ -29,7 +55,7 @@ Update the target internship report or same-day progress section incrementally f
 
 ### PDF Skill
 
-Create, edit, and review PDFs
+- Create, edit, and review PDFs
 
 <details>
 <summary>default_prompt</summary>
@@ -42,7 +68,7 @@ Create, edit, or review this PDF and summarize the key output or changes.
 
 ### Playwright CLI Skill
 
-Automate real browsers from the terminal
+- Automate real browsers from the terminal
 
 <details>
 <summary>default_prompt</summary>
@@ -55,7 +81,7 @@ Automate this browser workflow with Playwright and produce a reliable script wit
 
 ### Pytest Test Maintainer
 
-Maintain pytest tests with git-aware coverage updates.
+- Maintain pytest tests with git-aware coverage updates.
 
 <details>
 <summary>default_prompt</summary>
@@ -68,7 +94,7 @@ Use $pytest-test-maintainer to generate or update pytest+mock tests based on rec
 
 ### Speech Generation Skill
 
-Generate narrated audio from text
+- Generate narrated audio from text
 
 <details>
 <summary>default_prompt</summary>
@@ -81,7 +107,7 @@ Generate spoken audio for this text with the right voice style, pacing, and outp
 
 ### Staged Commit Message
 
-Conventional commit text from staged diff
+- Conventional commit text from staged diff
 
 <details>
 <summary>default_prompt</summary>
@@ -94,7 +120,7 @@ Use $staged-commit-message to draft a conventional commit message from staged ch
 
 ### 习概讨论PPT内容生成
 
-根据任意习概讨论主题快速产出4-8分钟PPT展示文案与分段讲稿
+- 根据任意习概讨论主题快速产出4-8分钟PPT展示文案与分段讲稿
 
 <details>
 <summary>default_prompt</summary>

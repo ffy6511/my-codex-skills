@@ -144,7 +144,7 @@ def render_entries(entries: Iterable[Tuple[str, str, str]]) -> str:
     chunks: List[str] = []
     for display_name, short_description, default_prompt in entries:
         chunks.append(f"### {display_name}\n")
-        chunks.append(f"{short_description}\n")
+        chunks.append(f"- {short_description}\n")
         chunks.append("<details>")
         chunks.append("<summary>default_prompt</summary>\n")
         chunks.append("````text")
