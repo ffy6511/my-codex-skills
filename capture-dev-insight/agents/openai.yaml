@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Insight Notes"
+  short_description: "Append concise development takeaways to the same-day note"
+  default_prompt: "Extract the worthwhile insight from the current conversation or code change, then append it in concise Chinese to today's development note, or to a user-specified Markdown file if provided."

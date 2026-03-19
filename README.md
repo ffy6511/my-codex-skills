@@ -27,6 +27,19 @@ Use the aio cli tool and follow the guidelines of skill.md to help users trouble
 
 </details>
 
+### Dev Insight Notes
+
+- Append concise development takeaways to the same-day note
+
+<details>
+<summary>default_prompt</summary>
+
+````text
+Extract the worthwhile insight from the current conversation or code change, then append it in concise Chinese to today's development note, or to a user-specified Markdown file if provided.
+````
+
+</details>
+
 ### Frontend Design
 
 - Design striking frontend pages and interfaces
